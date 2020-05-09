@@ -1,6 +1,6 @@
 # WordPress-Command-Line-sitemap.xml-Generator
 
-I’ve grown tired of overly complex WordPress plugins and their endless bloat and random vulnerabilities, so I’ve been working towards eliminating as many as possible from this website.
+I’ve grown tired of overly complex WordPress plugins and their endless bloat and random vulnerabilities, so I’ve been working towards eliminating as many as possible from my website.
 
 Here is my latest addition. It replaces a sitemap plugin I had been using.
 
