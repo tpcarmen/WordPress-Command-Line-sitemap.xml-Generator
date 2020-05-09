@@ -13,14 +13,12 @@ This is free software.
 
 It’s not shareware, nagware, guiltware or anything else. It’s just free, and I have released it under the MIT Licence.
 
-Once an hour, or whenever you want, it
+Once an hour, or whenever you want, it:
 
 * Queries the WordPress database for the page list
 * Creates an updated sitemap.xml file
 
-That’s it.
-
-It doesn’t phone home, notify anybody, or do anything else. It creates your sitemap and exits.
+It doesn’t phone home, notify anybody, or do anything else. It just creates your sitemap and exits.
 
 Also, I believe that it is free from vulnerabilities, since it is not callable from the web and takes no user input of any sort.
 
