@@ -2,7 +2,7 @@
 
 I’ve grown tired of overly complex WordPress plugins and their endless bloat and random vulnerabilities, so I’ve been working towards eliminating as many as possible from my website.
 
-Here is my latest addition. It replaces a sitemap plugin I had been using.
+Here is the latest addition that replaces a sitemap plugin I had been using.
 
 Please note that it makes a couple of assumptions that work for me, but maybe not for you:
 
