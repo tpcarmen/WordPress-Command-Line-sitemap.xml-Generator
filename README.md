@@ -8,7 +8,10 @@ Please note that it makes a couple of assumptions that work for me, but maybe no
 
 It assumes that the home page is the most important page.
 It assumes that the other pages are all equal priority
-It is free. It’s not shareware, nagware, guiltware or anything else. It’s just free, and I have released it under the MIT Licence.
+
+This is free software. 
+
+It’s not shareware, nagware, guiltware or anything else. It’s just free, and I have released it under the MIT Licence.
 
 Once an hour, or whenever you want, it
 
